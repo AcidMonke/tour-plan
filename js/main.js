@@ -7,4 +7,8 @@
     prevEl: '.slider-button--prev',
   },
 
+    keyboard: {
+    enabled: true,
+    onlyInViewport: false,
+  },
   });
